@@ -1,8 +1,9 @@
 {
-  "name": "url-shortener",
+  "name": "rlaur.in",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
+  "baseUrl": "https://rlaur.in",
   "scripts": {
     "shorten": "netlify-shortener"
   },
